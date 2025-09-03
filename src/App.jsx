@@ -38,7 +38,7 @@ function App() {
 
   return (
     <div className="app-container">
-      <h1>📚 My Book List</h1>
+      <h1> My Book List</h1>
 
       <div className="form">
         <input
